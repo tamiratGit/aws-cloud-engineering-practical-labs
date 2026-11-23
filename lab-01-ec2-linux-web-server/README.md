@@ -72,3 +72,5 @@ Opened the EC2 public IP address in a browser and confirmed that the webpage wor
 
 ## Result
 Successfully deployed an Apache web server on AWS EC2 and accessed my custom webpage through the internet.
+<img width="776" height="454" alt="Screenshot 2026-11-23 at 11 35 41" src="https://github.com/user-attachments/assets/2512e350-da1f-4b7f-a081-2b70d0ac0939" />
+
