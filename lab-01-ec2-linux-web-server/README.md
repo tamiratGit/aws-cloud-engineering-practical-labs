@@ -74,3 +74,14 @@ Opened the EC2 public IP address in a browser and confirmed that the webpage wor
 Successfully deployed an Apache web server on AWS EC2 and accessed my custom webpage through the internet.
 <img width="776" height="454" alt="Screenshot 2026-11-23 at 11 35 41" src="https://github.com/user-attachments/assets/2512e350-da1f-4b7f-a081-2b70d0ac0939" />
 
+Here is how the components work together:
+
+EC2	- Hosts your Linux server
+Ubuntu	- Operating system
+Security Group - 	Controls incoming network traffic
+SSH (port 22)	-  Secure server administration
+HTTP (port 80) - 	Delivers your webpage
+Apache -	Web server software
+Public IPv4	- Allows internet access
+
+Cloud engineering lesson: A working cloud server requires compute, networking, security and software configuration. Here all four together.
